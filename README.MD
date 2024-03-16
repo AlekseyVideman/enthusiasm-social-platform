@@ -1,0 +1,2 @@
+# Enthusiasm
+This is a social network for finding enthusiasts to work together on new projects. Users can easily find a project they’re interested in through a global search. The platform provides tools for user communication while working on projects.
